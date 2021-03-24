@@ -1,0 +1,8 @@
+
+/*use your own path in the cmd portion. Be sure to delete this line! */
+
+{
+   "cmd": ["C:\\Users\\Test\\AppData\\Local\\Programs\\Python\\Python35-32\\python.exe", "-u", "$file"],
+   "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*) ",
+   "selector": "source.python"
+}
